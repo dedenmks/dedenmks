@@ -1,6 +1,6 @@
 # Hi there, I'm Deden MKS! 👋
 
-![Banner](https://your-image-link-here)
+![Banner](./dedenmks@github-banner-image.png)
 
 ## About Me
 
