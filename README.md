@@ -45,7 +45,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/your-instagram-handle)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/your-facebook-profile)
-[![TikTok](https://img.shields.io/badge/TikTok-black?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@your-tiktok-handle)
+[![TikTok](https://img.shields.io/badge/TikTok-black?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dedenmks22)
 
 ---
 
