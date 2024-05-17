@@ -44,7 +44,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/your-instagram-handle)
-[![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/your-facebook-profile)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61559696645812)
 [![TikTok](https://img.shields.io/badge/TikTok-black?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dedenmks22)
 
 ---
